@@ -7,4 +7,5 @@ Retos de programación en javascript para Octubre de 2024
 | ---     | ---    | ---  | ---  |
 | Reto #01: | **Reto #1: 🧙‍♀️ Crea la poción perfecta** | 🟢 | [Spoiler #01](https://github.com/ztevenx100/js-2024-halloween-dev/blob/main/reto-01/main.js) |
 | Reto #02: | **Reto #2: 🧟 Horda de zombies** | 🟢 | [Spoiler #02](https://github.com/ztevenx100/js-2024-halloween-dev/blob/main/reto-02/main.js) |
-| Reto #02: | **Reto #3: 🛌 Escapa de la pesadilla de Freddy** | 🟢 | [Spoiler #02](https://github.com/ztevenx100/js-2024-halloween-dev/blob/main/reto-03/main.js) |
+| Reto #02: | **Reto #3: 🛌 Escapa de la pesadilla de Freddy** | 🟢 | [Spoiler #03](https://github.com/ztevenx100/js-2024-halloween-dev/blob/main/reto-03/main.js) |
+| Reto #02: | **Reto #4: 🔪 Encuentra al asesino** | 🟢 | [Spoiler #04](https://github.com/ztevenx100/js-2024-halloween-dev/blob/main/reto-04/main.js) |
