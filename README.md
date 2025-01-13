@@ -5,7 +5,7 @@ Retos de programación en javascript para Octubre de 2024
 
 > [!IMPORTANT]
 > Iniciativa de @midudev
-> Repositorio con los retos del halloween.dev 2023
+> Repositorio con los retos del halloween.dev 2024
 > Pagina de los retos: [halloween.dev](https://www.halloween.dev/es)
 
 
